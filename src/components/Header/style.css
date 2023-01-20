@@ -1,13 +1,11 @@
 header {
-    height: 60px;
+    width: 100%;
     background-color: #2d333b;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 h1 {
     font-family: 'poppins', sans-serif;
-    font-size: 24px;
+    font-size: 2rem;
     color: #ffffff;
+    text-align: center;
 }
